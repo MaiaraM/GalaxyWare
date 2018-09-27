@@ -4,5 +4,5 @@
       <img width="250" height="400" src="https://user-images.githubusercontent.com/40842310/46117334-1046b980-c1d7-11e8-8fb6-4a2b69970bfd.jpg">
 </p>
 
-### Developer
- by Maiara Martins
+#### :star2: Developer 
+ by Maiara Martins 
