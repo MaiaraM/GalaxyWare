@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GalaxyWare</string>
+    <string name="cellphone">(19) 9 9257-7697</string>
+    <string name="web">www.galaxyware.com.br</string>
+    <string name="email">galaxy.contato@gmail.com</string>
+    <string name="description">GalaxyWare é uma empresa de Tecnologia especializada em desevolvimento de Sistemas Web e Aplicativos Android</string>
+    <string name="title">Descrição:</string>
+</resources>
